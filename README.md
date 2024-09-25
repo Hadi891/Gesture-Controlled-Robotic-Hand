@@ -5,6 +5,9 @@
 ## Overview
 This repository contains the code for a Gesture Controlled Robotic Hand. The project enables control of a robotic hand using hand gestures captured through a computer vision. The initial inspiration for this project came from __CVZone__, with modifications and enhancements made for specific application needs.
 
+## Preview
+(https://drive.google.com/file/d/1ohFWUxwsqgD7xz8ycxUNugmSzmY4s4s7/view?usp=sharing)
+
 ## Credits
 - Initial inspiration and idea from CVZone by __Murtaza Hassan__.
 
